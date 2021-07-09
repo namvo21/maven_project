@@ -1,0 +1,69 @@
+[INFO ] [2021-05-07 00:09:38,917] Pre-condition - STEP 01: Open Login Page
+[INFO ] [2021-05-07 00:09:38,931] Pre-condition - STEP 02: Input to 'Email' textbox
+[INFO ] [2021-05-07 00:09:40,160] Pre-condition - STEP 03: Click to 'Continue' button
+[INFO ] [2021-05-07 00:09:40,240] Pre-condition - STEP 04: Input to 'Password' textbox
+[INFO ] [2021-05-07 00:09:40,869] Pre-condition - STEP 05: Click to 'Login' button
+[INFO ] [2021-05-07 00:09:40,925] Pre-condition - STEP 06: Verify 'Header' text is displayed
+[INFO ] [2021-05-07 00:10:07,379] Post-Condition - STEP 01: Close browser
+[INFO ] [2021-05-07 00:10:07,379] OS name = mac os x
+[INFO ] [2021-05-07 00:10:07,609] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2021-05-07 00:24:13,722] Pre-condition - STEP 01: Open Login Page
+[INFO ] [2021-05-07 00:24:13,729] Pre-condition - STEP 02: Input to 'Email' textbox
+[INFO ] [2021-05-07 00:24:14,008] Pre-condition - STEP 03: Click to 'Continue' button
+[INFO ] [2021-05-07 00:24:14,089] Pre-condition - STEP 04: Input to 'Password' textbox
+[INFO ] [2021-05-07 00:24:14,717] Pre-condition - STEP 05: Click to 'Login' button
+[INFO ] [2021-05-07 00:24:14,773] Pre-condition - STEP 06: Verify 'Header' text is displayed
+[INFO ] [2021-05-07 00:24:41,016] Post-Condition - STEP 01: Close browser
+[INFO ] [2021-05-07 00:24:41,016] OS name = mac os x
+[INFO ] [2021-05-07 00:24:41,240] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2021-05-07 00:26:49,486] Pre-condition - STEP 01: Open Login Page
+[INFO ] [2021-05-07 00:26:49,494] Pre-condition - STEP 02: Input to 'Email' textbox
+[INFO ] [2021-05-07 00:26:49,748] Pre-condition - STEP 03: Click to 'Continue' button
+[INFO ] [2021-05-07 00:26:49,827] Pre-condition - STEP 04: Input to 'Password' textbox
+[INFO ] [2021-05-07 00:26:50,463] Pre-condition - STEP 05: Click to 'Login' button
+[INFO ] [2021-05-07 00:26:50,523] Pre-condition - STEP 06: Verify 'Header' text is displayed
+[INFO ] [2021-05-07 00:27:16,325] Post-Condition - STEP 01: Close browser
+[INFO ] [2021-05-07 00:27:16,325] OS name = mac os x
+[INFO ] [2021-05-07 00:27:16,521] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2021-05-07 00:32:45,651] Pre-condition - STEP 01: Open Login Page
+[INFO ] [2021-05-07 00:32:45,661] Pre-condition - STEP 02: Input to 'Email' textbox
+[INFO ] [2021-05-07 00:32:45,910] Pre-condition - STEP 03: Click to 'Continue' button
+[INFO ] [2021-05-07 00:32:45,991] Pre-condition - STEP 04: Input to 'Password' textbox
+[INFO ] [2021-05-07 00:32:46,622] Pre-condition - STEP 05: Click to 'Login' button
+[INFO ] [2021-05-07 00:32:46,676] Pre-condition - STEP 06: Verify 'Header' text is displayed
+[INFO ] [2021-05-07 00:33:34,603] Post-Condition - STEP 01: Close browser
+[INFO ] [2021-05-07 00:33:34,604] OS name = mac os x
+[INFO ] [2021-05-07 00:33:34,942] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2021-05-07 00:34:56,382] Pre-condition - STEP 01: Open Login Page
+[INFO ] [2021-05-07 00:34:56,392] Pre-condition - STEP 02: Input to 'Email' textbox
+[INFO ] [2021-05-07 00:34:56,641] Pre-condition - STEP 03: Click to 'Continue' button
+[INFO ] [2021-05-07 00:34:56,732] Pre-condition - STEP 04: Input to 'Password' textbox
+[INFO ] [2021-05-07 00:34:57,367] Pre-condition - STEP 05: Click to 'Login' button
+[INFO ] [2021-05-07 00:34:57,424] Pre-condition - STEP 06: Verify 'Header' text is displayed
+[INFO ] [2021-05-07 00:35:44,811] Post-Condition - STEP 01: Close browser
+[INFO ] [2021-05-07 00:35:44,811] OS name = mac os x
+[INFO ] [2021-05-07 00:35:45,025] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2021-05-07 00:51:44,050] Pre-condition - STEP 01: Open Login Page
+[INFO ] [2021-05-07 00:51:44,062] Pre-condition - STEP 02: Input to 'Email' textbox
+[INFO ] [2021-05-07 00:51:44,314] Pre-condition - STEP 03: Click to 'Continue' button
+[INFO ] [2021-05-07 00:51:44,394] Pre-condition - STEP 04: Input to 'Password' textbox
+[INFO ] [2021-05-07 00:51:45,030] Pre-condition - STEP 05: Click to 'Login' button
+[INFO ] [2021-05-07 00:51:45,091] Pre-condition - STEP 06: Verify 'Header' text is displayed
+[INFO ] [2021-05-07 00:52:37,621] Pre-condition - STEP 01: Open Login Page
+[INFO ] [2021-05-07 00:52:37,631] Pre-condition - STEP 02: Input to 'Email' textbox
+[INFO ] [2021-05-07 00:52:37,909] Pre-condition - STEP 03: Click to 'Continue' button
+[INFO ] [2021-05-07 00:52:37,989] Pre-condition - STEP 04: Input to 'Password' textbox
+[INFO ] [2021-05-07 00:52:38,624] Pre-condition - STEP 05: Click to 'Login' button
+[INFO ] [2021-05-07 00:52:38,697] Pre-condition - STEP 06: Verify 'Header' text is displayed
+[INFO ] [2021-05-07 00:53:26,661] Post-Condition - STEP 01: Close browser
+[INFO ] [2021-05-07 00:53:26,661] OS name = mac os x
+[INFO ] [2021-05-07 00:53:26,932] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2021-05-07 01:01:32,642] Pre-condition - STEP 01: Open Login Page
+[INFO ] [2021-05-07 01:01:32,657] Pre-condition - STEP 02: Input to 'Email' textbox
+[INFO ] [2021-05-07 01:01:32,913] Pre-condition - STEP 03: Click to 'Continue' button
+[INFO ] [2021-05-07 01:01:32,994] Pre-condition - STEP 04: Input to 'Password' textbox
+[INFO ] [2021-05-07 01:01:33,625] Pre-condition - STEP 05: Click to 'Login' button
+[INFO ] [2021-05-07 01:01:33,680] Pre-condition - STEP 06: Verify 'Header' text is displayed
+[INFO ] [2021-05-07 01:02:20,682] Post-Condition - STEP 01: Close browser
+[INFO ] [2021-05-07 01:02:20,682] OS name = mac os x
+[INFO ] [2021-05-07 01:02:20,947] ---------- QUIT BROWSER SUCCESS ----------

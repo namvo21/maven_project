@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="JQuery" parallel="false">
+	<test name="Run on Firefox">
+	<parameter name="browser" value="firefox"/>
+	<parameter name="url" value="https://www.jqueryscript.net/demo/CRUD-Data-Grid-Plugin-jQuery-Quickgrid/"/>
+		<classes>
+			<class name="com.jquery.datatable.JQuery_01_DataTable" />
+		</classes>
+	</test>
+	
+</suite> 

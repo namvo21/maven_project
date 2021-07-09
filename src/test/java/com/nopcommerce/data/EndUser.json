@@ -1,0 +1,21 @@
+{
+	"Register": {
+		"firstname": "Jeff",
+		"lastname": "New Luisbury",
+		"email": "JeffNewLuisbury",
+		"company": "Greenland",
+		"password": "123456"
+	},
+	"Login": {
+		"firstname": "Jeff",
+		"lastname": "New Luisbury",
+		"email": "JeffNewLuisbury",
+		"company": "Greenland",
+		"password": "123456"
+	},
+	"firstname": "Jeff",
+	"lastname": "New Luisbury",
+	"email": "JeffNewLuisbury",
+	"company": "Greenland",
+	"password": "123456"
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="BankGuru">
+	<test name="Run on Chrome">
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<class name="com.bankguru.login.Login_03_Dymanic_Page_Element" />
+		</classes>
+	</test>
+</suite>
